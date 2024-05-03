@@ -1,4 +1,4 @@
-package org.example.exceptions;
+package org.example.n1exercici1.exceptions;
 
 public class EmptySaleException extends Exception {
     public EmptySaleException() {

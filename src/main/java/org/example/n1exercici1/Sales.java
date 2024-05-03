@@ -1,7 +1,7 @@
-package org.example;
+package org.example.n1exercici1;
 
 
-import org.example.exceptions.EmptySaleException;
+import org.example.n1exercici1.exceptions.EmptySaleException;
 
 import java.util.ArrayList;
 
