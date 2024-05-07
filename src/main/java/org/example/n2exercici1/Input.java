@@ -21,7 +21,6 @@ public class Input {
         this.message = message;
     }
 
-
     public static byte readByte(String message) throws InputMismatchException {
         byte byteInput = 0;
         boolean isValid = false;
